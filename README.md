@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bookroad](https://github.com/zayed0099/bookroad)
 
-- 🌱 I’m currently learning **Flask, PostgreSQL**
+- 🌱 I’m currently learning **Flask Blueprint, PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zayed0099](https://github.com/zayed0099)
 
