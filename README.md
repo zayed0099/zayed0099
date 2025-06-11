@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zayed Ahmed</h1>
 <h3 align="center">A passionate Python backend developer.</h3>
 
-- 🔭 I’m currently working on [Bookroad](https://github.com/zayed0099/bookroad)
+- 🔭 I’m currently working on [pyblogger](https://github.com/zayed0099/pyblogger)
 
 - 🌱 I’m currently learning **Flask Blueprint, PostgreSQL**
 
