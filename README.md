@@ -25,11 +25,7 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=zayed0099&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
+(https://github-readme-activity-graph.vercel.app/graph?username=zayed0099&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true)]
 
 <!---
 zayed0099/zayed0099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
