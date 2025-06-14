@@ -9,10 +9,6 @@
 
 - 📫 How to reach me **zayed.ah06@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -29,7 +25,11 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=zayed0099&theme=dark" alt="Layout with last medium posts"  />
+</div>
 
+###
 
 <!---
 zayed0099/zayed0099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
