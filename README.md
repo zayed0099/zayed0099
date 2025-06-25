@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [pyblogger](https://github.com/zayed0099/pyblogger)
 
-- 🌱 I’m currently learning **Flask Blueprint, PostgreSQL**
+- 🌱 I’m currently learning **Flask Blueprint, Flask-Restful, JWT_Extended**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zayed0099](https://github.com/zayed0099)
 
