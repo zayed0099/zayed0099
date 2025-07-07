@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zayed Ahmed</h1>
 <h3 align="center">A passionate Python backend developer.</h3>
 
-- 🔭 I’m currently working on [pyblogger](https://github.com/zayed0099/pyblogger)
+- 🔭 I’m currently working on [book-manager-api](https://github.com/zayed0099/book_manager_api)
 
 - 🌱 I’m currently learning **Flask Blueprint, Flask-Restful, JWT_Extended**
 
